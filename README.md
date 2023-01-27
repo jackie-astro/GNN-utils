@@ -1,8 +1,16 @@
 # GNN-utils
 A Self-maintained GNN Libs including GNN-Algorithm Implementation(commented), Study Material, etc.
 
-### GNN API & tutorial
+### GNN Useful API & tutorial
 [PyG](https://pytorch-geometric.readthedocs.io/en/latest/get_started/introduction.html)
+
+### Build Graph and Graph Statistics Analysis
+
+#### general
+[Networkx](https://networkx.org/)
+
+#### PDB File 
+[Protein and Molecular](https://github.com/a-r-j/graphein)
 
 ### Paper
 Will separate this part into four Direction
