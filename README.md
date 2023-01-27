@@ -12,15 +12,17 @@ A Self-maintained GNN Libs including GNN-Algorithm Implementation(commented), St
 
 ### Paper
 Will separate this part into four Direction
-  * Robustness of GNN (Data Distribution Shift, Hetergeneous Data Mining, etc.)
+  
+#### Robustness of GNN (Data Distribution Shift, Hetergeneous Data Mining, etc.)
       
-  * Explanaibility of GNN 
+#### Explanaibility of GNN 
   
-  * AutoML in GNN
+#### AutoML in GNN
   
-  * Application in GNN
+#### Application in GNN
           
-          Molecular Graph Generation
+          Molecular Graph Generation 
+          1. https://arxiv.org/pdf/1806.02473.pdf (By Jiaxuan You, Rex, Ying et.al)
         
           Antibody Design
 
