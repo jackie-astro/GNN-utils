@@ -4,6 +4,8 @@ A Self-maintained GNN Libs including GNN-Algorithm Implementation(commented), St
 ### GNN Useful API & tutorial
 [PyG](https://pytorch-geometric.readthedocs.io/en/latest/get_started/introduction.html)
 
+[Stanford CS224W](http://web.stanford.edu/class/cs224w/)
+
 ### Build Graph and Graph Statistics Analysis
 
 1. General  [Networkx](https://networkx.org/)
