@@ -20,14 +20,13 @@ Will separate this part into four Direction
 #### AutoML in GNN
   
 #### Application in GNN
-          
-          Molecular Graph Generation 
-          1. [GCPN](https://arxiv.org/pdf/1806.02473.pdf) (By Jiaxuan You, Rex, Ying et.al)
+
+1. Molecular Graph Generation  [GCPN](https://arxiv.org/pdf/1806.02473.pdf) (By Jiaxuan You, Rex, Ying et.al)
         
-          Antibody Design
+2. Antibody Design
 
-          Scaffold Design
+3. Scaffold Design
 
-          Ligand Prediction
+4. Ligand Prediction
 
-          Single Cell Type Differentation 
+5. Single Cell Type Differentation 
