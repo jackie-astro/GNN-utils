@@ -43,4 +43,4 @@ Will separate this part into four Direction
 
 4. Ligand Prediction: [Diff-Dock](https://arxiv.org/pdf/2210.01776.pdf)
 
-5. Single Cell Type Differentation 
+5. Single Cell Type Differentation : [Cell Diff](https://www.nature.com/articles/s41598-020-66166-8)
