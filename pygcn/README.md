@@ -32,15 +32,3 @@ This implementation makes use of the Cora dataset from [2].
 
 [2] [Sen et al., Collective Classification in Network Data, AI Magazine 2008](http://linqs.cs.umd.edu/projects/projects/lbc/)
 
-## Cite
-
-Please cite our paper if you use this code in your own work:
-
-```
-@article{kipf2016semi,
-  title={Semi-Supervised Classification with Graph Convolutional Networks},
-  author={Kipf, Thomas N and Welling, Max},
-  journal={arXiv preprint arXiv:1609.02907},
-  year={2016}
-}
-```
