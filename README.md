@@ -22,7 +22,7 @@ Will separate this part into four Direction
 #### Application in GNN
           
           Molecular Graph Generation 
-          1. https://arxiv.org/pdf/1806.02473.pdf (By Jiaxuan You, Rex, Ying et.al)
+          1. [GCPN](https://arxiv.org/pdf/1806.02473.pdf) (By Jiaxuan You, Rex, Ying et.al)
         
           Antibody Design
 
