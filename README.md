@@ -21,7 +21,7 @@ Will separate this part into four Direction
   
 #### Application in GNN
 
-1. Molecular Graph Generation  [GCPN](https://arxiv.org/pdf/1806.02473.pdf) (By Jiaxuan You, Rex, Ying et.al)
+1. Molecular Graph Generation  : [GCPN](https://arxiv.org/pdf/1806.02473.pdf) (By Jiaxuan You, Rex, Ying et.al)
         
 2. Antibody Design
 
