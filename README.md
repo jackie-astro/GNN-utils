@@ -13,12 +13,12 @@ Will separate this part into four Direction
   * AutoML in GNN
   
   * Application in GNN
-        * Molecular Graph Generation
+          Molecular Graph Generation
         
-        * Antibody Design
+          Antibody Design
 
-        * Scaffold Design
+          Scaffold Design
 
-        * Ligand Prediction
+          Ligand Prediction
 
-        * Single Cell Type Differentation 
+          Single Cell Type Differentation 
