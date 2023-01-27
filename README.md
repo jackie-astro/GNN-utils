@@ -6,11 +6,9 @@ A Self-maintained GNN Libs including GNN-Algorithm Implementation(commented), St
 
 ### Build Graph and Graph Statistics Analysis
 
-    general
-    [Networkx](https://networkx.org/)
+1. General  [Networkx](https://networkx.org/)
 
-    PDB File 
-    [Protein and Molecular](https://github.com/a-r-j/graphein)
+2. PDB File [Protein and Molecular](https://github.com/a-r-j/graphein)
 
 ### Paper
 Will separate this part into four Direction
