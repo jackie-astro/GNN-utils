@@ -14,6 +14,3 @@ Developed a sparse version GAT using pytorch. There are numerically instability 
 
 pyGAT relies on Python 3.5 and PyTorch 0.4.1 (due to torch.sparse_coo_tensor).
 
-# Issues/Pull Requests/Feedbacks
-
-Don't hesitate to contact for any feedback or create issues/pull requests.
